@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Custom text selection */
+::selection {
+  background-color: #18181b;
+  color: #ffffff;
+}
